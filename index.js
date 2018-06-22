@@ -30,5 +30,3 @@ function calculatesFarePrice(startingBlock, endingBlock) {
     return "cannot travel that far"
   }
 }
-
-console.log(calculatesFarePrice(32,60));
